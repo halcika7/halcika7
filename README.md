@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/halcika7?logo=github&style=for-the-
 
 <a href="http://www.github.com/halcika7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=halcika7&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/halcika7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=halcika7&bg_color=27272a&color=ffffff&line=000000&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/halcika7"><img src="https://github-readme-activity-graph.vercel.app/graph?username=halcika7&bg_color=27272a&color=ffffff&line=000000&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/halcika7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halcika7&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
