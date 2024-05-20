@@ -7,7 +7,7 @@ Software Engineer
 asdas
 
 * 🌍  I'm based in Sarajevo
-* 🖥️  See my portfolio at [MyPortfolio](http://google.com)
+* 🖥️  See my portfolio at [MyPortfolio]([http://google.com](https://www.harisbeslic.com/))
 * ✉️  You can contact me at [harisbeslic32@gmail.ccom](mailto:harisbeslic32@gmail.ccom)
 * 🚀  I'm currently working on [Zizoo](http://www.zizoo.com/)
 * 🧠  I'm learning GO, Fiber
